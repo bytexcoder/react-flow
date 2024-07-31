@@ -16,7 +16,7 @@
     ]
   },
   "lint-staged": {
-    "*.{md,json}": [
+    "*.{md,json,yaml}": [
       "prettier --write --no-error-on-unmatched-pattern"
     ]
   },
